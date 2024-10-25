@@ -1,4 +1,5 @@
 # Manual de usuario de MarkDown
+### Entorno de desarrollo / Manuel Bielser Moret
 ### En este manual vamos a hablar sobre como se usa MarkDown.
 
 Si quieres hacer un encabezado, pon #
@@ -8,7 +9,7 @@ Si quieres hacer un encabezado, pon #
 <p>Para poner subtitulos, tienes que poner 2 #
 
 ## Negrita
-Para poner una palabra en **negrita** se tiene que poner ** palabra **
+Para poner una palabra en **negrita** se tiene que poner ** palabra **<p>
 Para poner __el texto en negrita se tiene que poner__ __ texto __
 
 ## Cursiva
@@ -17,7 +18,7 @@ Para poner el texto en *cursiva* se tiene que poner * texto *
 ## Ejemplo
 Este **manual** te guiará en elaboración de documentos *markdown* de manera fácil y rápida
 
-### Listas
+## Listas
 Para poner una listas numeradas tienes que poner un número seguido de un punto
 1. Primera posición
 2. Segunda posición
@@ -46,6 +47,6 @@ Para poner imagenes se tiene que poner una exclamación, el nombre que quieras y
 Para poner una tabla tiene que poner una barra |.
 | Columna 1| Columna 2| Columna 3|
 |----------|----------|----------|
-| Fila 1   | Fila 2   | Fila 3   |
-| Fila 4   | Cell 5   |  Fila 6  |
+| Fila 1   | Fila 2   |  Fila 3  |
+| Fila 4   | Fila 5   |  Fila 6  |
 | Fila 3   | Fila 8   |  Fila 9  |
